@@ -110,7 +110,7 @@ extension UIImageView {
         }
         
         isUserInteractionEnabled = true
-        contentMode = .scaleAspectFill
+        //contentMode = .scaleAspectFill
         clipsToBounds = true
         
         if _tapRecognizer == nil {
